@@ -1,2 +1,2 @@
-# Hotel-system
-Developed 'Hotel' – information system, Back and Front work. Includes audio, Input and Output to file.
+# StayInn
+Elevating Hospitality - From Front Desk to Back Office, a comprehensive hotel management system with seamless audio integration and file I/O capabilities.
